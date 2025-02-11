@@ -1,4 +1,4 @@
-use bevy::{color::palettes::basic::GRAY, prelude::*, window::PrimaryWindow};
+use bevy::{color::palettes::basic::RED, prelude::*, window::PrimaryWindow};
 
 fn main() {
     App::new()
